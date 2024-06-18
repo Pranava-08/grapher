@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch JavaFX App",
+            "request": "launch",
+            "mainClass": "Grapher", // replace with your main class
+            "vmArgs": "--module-path 'C:/Users/dsf/Documents/Codes/Programing paradigms/grapher/lib' --add-modules javafx.controls,javafx.fxml"
+        }
+    ]
+}

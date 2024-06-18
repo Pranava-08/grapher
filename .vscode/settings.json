@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ],
+    "javafx.libpath": "lib",
+    "javafx.modules": "javafx.controls,javafx.fxml"
+}
